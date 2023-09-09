@@ -1,1 +1,2 @@
 F:\ljp\C++ Primer\C++ Primer\x64\Debug\C++ Primer 1.exe
+F:\ljp\C++ Primer\Primer_Study\C++ Primer 1\x64\Debug\C++ Primer 1.exe
