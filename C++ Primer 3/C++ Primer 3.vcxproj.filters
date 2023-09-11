@@ -18,5 +18,26 @@
     <ClCompile Include="3_1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_24.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

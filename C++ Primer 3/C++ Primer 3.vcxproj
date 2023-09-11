@@ -128,6 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3_1.cpp" />
+    <ClCompile Include="3_14.cpp" />
+    <ClCompile Include="3_16.cpp" />
+    <ClCompile Include="3_2.cpp" />
+    <ClCompile Include="3_21.cpp" />
+    <ClCompile Include="3_24.cpp" />
+    <ClCompile Include="3_4.cpp" />
+    <ClCompile Include="3_6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
